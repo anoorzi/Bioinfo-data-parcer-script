@@ -36,7 +36,6 @@ Always appreciated.
 Contributors names and contact info
 
     Abubaker Noorzi[@anoorzi]
-    Alexander Bogdanowicz[@akbog]
 
 ## Acknowledgments
 
