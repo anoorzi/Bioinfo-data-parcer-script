@@ -47,6 +47,7 @@ def check_manifest(data_path):
         pf_final = pd.merge(pf_final, sb_final, on="USUBJID", how="left")
         
         print(pf_final)
+        pf_final.to_csv('incorrect_matching_list.csv' , index=False)
 
 
 if __name__=='__main__':
